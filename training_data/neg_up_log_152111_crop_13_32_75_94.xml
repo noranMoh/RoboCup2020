@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_data</folder>
+	<filename>neg_up_log_152111_crop_13_32_75_94.png</filename>
+	<path>/home/noran/Desktop/RoboCup2020/training_data/neg_up_log_152111_crop_13_32_75_94.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>62</width>
+		<height>62</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>1</ymin>
+			<xmax>60</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>
